@@ -1,2 +1,2 @@
-Google Colab or Jupyter NoteBok
+Google Colab or Jupyter NoteBook
 
